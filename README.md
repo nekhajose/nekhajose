@@ -1,5 +1,11 @@
-## Hi there 👋
+## Nekha Jose 👋
+### About me
+** Website: **<www.saintgits.org>**
+Civil Engineer by profession
 
+## Workshops attended
+- Faculty Development Program- **Python Programming Instructional Design**
+- One day FDP on 
 <!--
 **nekhajose/nekhajose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
